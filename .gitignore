@@ -80,3 +80,7 @@ week01_embeddings/cc.ru.300.vec
 .gitignore
 .gitignore
 week01_embeddings/quora.txt
+week02_lm/arxivData.json
+week02_lm/arxivData.json.tar.gz
+week02_lm/beam_search.html
+week02_lm/model_rnn.pth
