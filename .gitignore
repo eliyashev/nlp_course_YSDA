@@ -84,3 +84,15 @@ week02_lm/arxivData.json
 week02_lm/arxivData.json.tar.gz
 week02_lm/beam_search.html
 week02_lm/model_rnn.pth
+week03_attention/=1.3.0
+.gitignore
+week03_attention/bpe_rules.ru
+week03_attention/bpe_rules.en
+week03_attention/data.txt
+.gitignore
+week03_attention/train.bpe.en
+.gitignore
+week03_attention/train.bpe.ru
+week03_attention/train.ru
+week03_attention/vocab.py
+week03_attention/train.en
